@@ -3,8 +3,11 @@ This is how I used OASIS (https://github.com/zhoupc/OASIS_matlab) to analyze the
 
 To install
 1- Download OASIS_matlab (https://github.com/zhoupc/OASIS_matlab
+
 2- Download the files and folders included in this repository (Algamal2022_analysis_w_OASIS)
+
 3- Copy all the files and folders in Algamal2022_analysis_w_OASIS, then paste them inside the folder (OASIS_matlab-master)
+
 4- You can then use the main file (CallCa) to analyze your data, make sure you cahnge the path to the path where OASIS_matlab-master is located (line 1 in CallCa. 
 
 To analyze data imported from Suite2p, do the following.
