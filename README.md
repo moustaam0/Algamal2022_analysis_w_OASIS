@@ -13,7 +13,9 @@ To analyze data imported from Suite2p, do the following.
 8- Event rates will be exported to the analyzed folder as an excel sheet.
 
 Alternatively, you can store your time series data in a Matlab file (e.g name. mat) that contains two following variables
-1 -data---> fluorescence values over time
-2-dt--> frame time (e.g 0.1 s)
+
+1; 'data' ---> fluorescence values over time
+
+2; 'dt' --> frame time (e.g 0.1 s)
 
 Then follow steps 3-8
