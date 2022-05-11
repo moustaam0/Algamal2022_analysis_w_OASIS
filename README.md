@@ -1,9 +1,9 @@
 # Algamal2022_analysis_w_OASIS
-This is how I used OASIS (https://github.com/zhoupc/OASIS_matlab) to analyze the data reported in Algamal et al. 2022 using Matlab, doi: https://doi.org/10.1101/2022.04.27.489759
+This is how I used OASIS (https://github.com/zhoupc/OASIS_matlab) to analyze the data reported in Algamal et al. 2022, doi: https://doi.org/10.1101/2022.04.27.489759
 
 To install
 
-1- Download OASIS_matlab (https://github.com/zhoupc/OASIS_matlab
+1- Download OASIS_matlab (https://github.com/zhoupc/OASIS_matlab)
 
 2- Download the files and folders included in this repository (Algamal2022_analysis_w_OASIS)
 
