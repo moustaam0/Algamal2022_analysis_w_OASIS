@@ -1,5 +1,5 @@
 # Algamal2022_analysis_w_OASIS
-This is how I used OASIS (https://github.com/zhoupc/OASIS_matlab) and Suite2P (https://github.com/MouseLand/suite2p) to analyze the data reported in Algamal et al. 2022, doi: https://doi.org/10.1101/2022.04.27.489759
+This is how I used OASIS (https://github.com/zhoupc/OASIS_matlab) and suite2P (https://github.com/MouseLand/suite2p) to analyze the data reported in Algamal et al. 2022, doi: https://doi.org/10.1101/2022.04.27.489759
 
 To install
 
